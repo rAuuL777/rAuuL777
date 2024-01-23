@@ -1,5 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
-
+## Olá, mundo! Bem vindo ao Meu perfil 
  <div>
    <a href="https://github.com/rAuuL777">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rAuuL777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
